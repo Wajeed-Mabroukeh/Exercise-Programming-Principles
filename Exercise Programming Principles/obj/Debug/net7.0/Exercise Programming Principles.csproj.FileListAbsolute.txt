@@ -1,0 +1,17 @@
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\bin\Debug\net7.0\Exercise Programming Principles.exe
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\bin\Debug\net7.0\Exercise Programming Principles.deps.json
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\bin\Debug\net7.0\Exercise Programming Principles.runtimeconfig.json
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\bin\Debug\net7.0\Exercise Programming Principles.dll
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\bin\Debug\net7.0\Exercise Programming Principles.pdb
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.csproj.AssemblyReference.cache
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.AssemblyInfoInputs.cache
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.AssemblyInfo.cs
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.csproj.CoreCompileInputs.cache
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.csproj.CopyComplete
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.dll
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\refint\Exercise Programming Principles.dll
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.pdb
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\Exercise Programming Principles.genruntimeconfig.cache
+C:\Users\wajed\RiderProjects\Exercise Programming Principles\Exercise Programming Principles\obj\Debug\net7.0\ref\Exercise Programming Principles.dll
