@@ -35,11 +35,11 @@ The bot configuration is managed via a JSON file. The configuration determines:
 ### Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/real-time-weather-monitoring.git
+    https://github.com/Wajeed-Mabroukeh/Exercise-Programming-Principles.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd real-time-weather-monitoring
+    cd Exercise-Programming-Principles
     ```
 3. Build and run the application:
     ```bash
