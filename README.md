@@ -1,6 +1,6 @@
 # Exercise Programming Principles
 <b>Project Overview</b><br>
-This project is a console-based application developed in C# for FTS company as part of backend developer training.
+This project is a console-based application developed in C# for FTS company as part of backend developer training.<br>
 This C# console application simulates a real-time weather monitoring and reporting service. The system receives weather data in different formats (JSON, XML) from various weather stations, and depending on the data, it triggers specific weather bots that behave according to pre-defined rules. The bots are activated based on conditions such as temperature and humidity, making this project an excellent demonstration of design patterns and SOLID principles, particularly focusing on extensibility and modularity
 
 ## Features
